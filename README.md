@@ -27,6 +27,7 @@ d33ceb1 add module 7 functions: calculate_tax, apply_discount, final_price
 531df06 Initial commit
 ```
 If I were hiring someone, I’d see that they made organized commits, handled tasks one at a time, and wrote clear messages explaining their changes
+
 2.
 Git makes me think more about the changes I'm making instead of just editing everything at once. Before, I would make changes without saving different versions. Now I can save my work more often and use commits so I can go back if I mess something up.
 
